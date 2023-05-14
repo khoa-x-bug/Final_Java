@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/LAB_Circle02/LAB_Circle02.iml" filepath="$PROJECT_DIR$/LAB_Circle02/LAB_Circle02.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_ClassMain/LAB_ClassMain.iml" filepath="$PROJECT_DIR$/LAB_ClassMain/LAB_ClassMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_GetSet/LAB_GetSet.iml" filepath="$PROJECT_DIR$/LAB_GetSet/LAB_GetSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_TwoSum/LAB_TwoSum.iml" filepath="$PROJECT_DIR$/LAB_TwoSum/LAB_TwoSum.iml" />
     </modules>
   </component>
 </project>
