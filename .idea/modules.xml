@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Final_Java.iml" filepath="$PROJECT_DIR$/Final_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_BigInt/LAB_BigInt.iml" filepath="$PROJECT_DIR$/LAB_BigInt/LAB_BigInt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_Circle01/LAB_Circle01.iml" filepath="$PROJECT_DIR$/LAB_Circle01/LAB_Circle01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_Circle02/LAB_Circle02.iml" filepath="$PROJECT_DIR$/LAB_Circle02/LAB_Circle02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_ClassMain/LAB_ClassMain.iml" filepath="$PROJECT_DIR$/LAB_ClassMain/LAB_ClassMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_Date/LAB_Date.iml" filepath="$PROJECT_DIR$/LAB_Date/LAB_Date.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_GetSet/LAB_GetSet.iml" filepath="$PROJECT_DIR$/LAB_GetSet/LAB_GetSet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LAB_TwoSum/LAB_TwoSum.iml" filepath="$PROJECT_DIR$/LAB_TwoSum/LAB_TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Final_Java.iml" filepath="$PROJECT_DIR$/.idea/Final_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_Swap/LAB_Swap.iml" filepath="$PROJECT_DIR$/LAB_Swap/LAB_Swap.iml" />
     </modules>
   </component>
 </project>
