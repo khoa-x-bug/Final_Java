@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Final_Java.iml" filepath="$PROJECT_DIR$/.idea/Final_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_ClassMain/LAB_ClassMain.iml" filepath="$PROJECT_DIR$/LAB_ClassMain/LAB_ClassMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_Non-staticClass/LAB_Non-staticClass.iml" filepath="$PROJECT_DIR$/LAB_Non-staticClass/LAB_Non-staticClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_Swap/LAB_Swap.iml" filepath="$PROJECT_DIR$/LAB_Swap/LAB_Swap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_toString/LAB_toString.iml" filepath="$PROJECT_DIR$/LAB_toString/LAB_toString.iml" />
     </modules>
