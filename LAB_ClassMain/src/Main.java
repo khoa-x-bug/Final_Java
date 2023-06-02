@@ -1,17 +1,13 @@
 import java.util.Scanner;
 
-/**
- * @author Khoand - B19DCVT208
- */
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int testCase = sc.nextInt();
         sc.nextLine();
 
-        while (testCase -- > 0) {
-            //Chia dữ liệu đầu vào  thành mảng các chuỗi
-            String[] inputs = sc.nextLine().split(" ");
+        while (testCase-- > 0) {
+            String[] inputs = sc.nextLine().trim().split("\\s+");
             int countString = inputs.length;
             int countChar = 0;
 
