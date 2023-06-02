@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Final_Java.iml" filepath="$PROJECT_DIR$/.idea/Final_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_Immutable/LAB_Immutable.iml" filepath="$PROJECT_DIR$/LAB_Immutable/LAB_Immutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_WrapperClass/LAB_WrapperClass.iml" filepath="$PROJECT_DIR$/LAB_WrapperClass/LAB_WrapperClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB_WrapperClass02/LAB_WrapperClass02.iml" filepath="$PROJECT_DIR$/LAB_WrapperClass02/LAB_WrapperClass02.iml" />
     </modules>
